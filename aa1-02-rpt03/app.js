@@ -16,7 +16,7 @@ app.get("/ comsi", function (req, res) {
 });
 
 app.get("/ aa03", function (req, res) {
-  res.send("안녕하세요 aa03, Comsi! 내 첫 익스프레스 서버 !!!");
+  res.send("안녕하세요 aa02, Comsi! 내 첫 익스프레스 서버 !!!");
 });
 
 app.get("/ naver", function (req, res) {
